@@ -16,7 +16,7 @@
 - Exploring Numpy for data analysis
 - Basics of Data Science
 
-## Cnnect with me
+## C0nnect with me
 - Email : aarpit8894350818@gmail.com
 
 ## Fun Fact
