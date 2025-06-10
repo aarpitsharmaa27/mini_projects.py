@@ -20,5 +20,5 @@
 - Email : aarpit8894350818@gmail.com
 
 ## Fun Fact
-i Love solving math puzzles and logical reasoning
+I Love solving math puzzles and logical reasoning
 
