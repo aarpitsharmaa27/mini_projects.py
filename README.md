@@ -16,6 +16,9 @@
 - Exploring Numpy for data analysis
 - Basics of Data Science
 
+## Projects
+- Simple Python Calculator
+
 ## Connect with me
 - Email : aarpit8894350818@gmail.com
 
