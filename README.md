@@ -1,27 +1,41 @@
-# Hi , I'm Arpit Sharma 
+###👋 Hi, I'm Arpit Sharma
 
-# I,m a B.Sc Mathematics Graduate Passionate about coding and problem - solving. Currently learning Python to build cool projects and preparing to pursue an MCA to deeper into computer science !
+🎓 A B.Sc. Mathematics graduate passionate about coding and problem-solving.  
+🚀 Currently learning Python to build cool projects and preparing to pursue an MCA to dive deeper into computer science and data science!
 
-## Skills
+---
+
+## 🛠️ Skills
 - Python (Beginner)
 - Mathematics
-- Problem Solving
+- Logical Problem Solving
 
-## Education Goals
-- B.Sc. Mathematics (Completed)
-- Preparing to pursue MCA to master computer science and Data science
+---
 
-## Currently Learning
-- Python Basics(variables, loops, functions)
-- Exploring Numpy for data analysis
-- Basics of Data Science
+## 🎯 Education Goals
+- ✅ B.Sc. Mathematics (Completed)
+- 🎓 Preparing for MCA (Computer Science + Data Science)
 
-## Projects
-- Simple Python Calculator
+---
 
-## Connect with me
-- Email : aarpit8894350818@gmail.com
+## 📚 Currently Learning
+- Python basics (variables, loops, functions)
+- Exploring NumPy for data analysis
+- Introduction to Data Science
 
-## Fun Fact
-I Love solving math puzzles and logical reasoning
+---
+
+## 💻 Projects
+- **Simple Python Calculator**  
+  A basic calculator built using Python that performs addition, subtraction, multiplication, and division via user input.
+
+---
+
+## 📬 Connect with Me
+- 📧 Email: aarpit8894350818@gmail.com
+
+---
+
+## 🤓 Fun Fact
+I love solving math puzzles and logical reasoning challenges!
 
